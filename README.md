@@ -10,7 +10,7 @@
 
   <script>
     function (add) {
-      const  = parseFloat(document.getElementById("num1").value);
+      const a = parseFloat(document.getElementById("num1").value);
       const b = parseFloat(document.getElementById("num2").value);
       document.getElementById("result").innerText = "Result: " + (a +b );
     }
