@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html> **
 <head><title>Calculator</title></head>
-<ody>
+<body>
   <input id="num1" type="number">
   <input id="num2" type="number">
   <button onclick="add()">Add</button>
