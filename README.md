@@ -1,7 +1,7 @@
 # user-gold
 <!DOCTYPE html>
 <html> **
-<head><title>Calculator</title></head>
+<head><title>Calculator</title></>
 <body>
   <input id="num1" type="number">
   <input id="num2" type="number">
