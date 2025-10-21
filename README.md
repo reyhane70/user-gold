@@ -16,5 +16,5 @@
       document.getElementById("result").innerText = "Result: " + (a +b );
     }
   </script>
-</body>
+</>
 </html> 
